@@ -1,6 +1,6 @@
 # Echo assignment
 
-Pipeline di Machine Learning per la classificazione binaria del dataset **Breast Cancer Wisconsin (Diagnostic)**. 
+Pipeline di Machine Learning per la classificazione binaria del dataset **Breast Cancer Wisconsin (Diagnostic)** https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data. 
 Il notebook esplora diverse strategie di preprocessing (inclusi Scaling, SMOTE e PCA) e confronta vari modelli di 
 classificazione (SVC, Random Forest, ecc.), analizzando le performance sia con parametri di default che ottimizzati.
 
